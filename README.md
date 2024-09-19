@@ -1,0 +1,1 @@
+Created two S3 buckets in AWS and uploaded a file to the first bucket. The file was then copied from the first bucket to the second bucket. Finally, the original file was deleted from the first bucket, leaving it only in the second bucket.
